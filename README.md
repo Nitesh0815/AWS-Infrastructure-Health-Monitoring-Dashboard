@@ -24,7 +24,7 @@ The project is implemented using **two methods**:
 
 ## 🏗 Architecture
 
-![architecture_diagram](/architecture diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 The solution deploys the following **high-availability AWS architecture**:
 

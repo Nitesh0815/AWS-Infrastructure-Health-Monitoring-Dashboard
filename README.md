@@ -134,6 +134,7 @@ Triggers CPU alarm + SNS email alert.
 
 ## 📸 Visuals
 ![CloudWatch_dashboard_image](manually%20created%20resources/screenshorts/114.png)
+![CloudWatch_dashboard_image](manually%20created%20resources/screenshorts/115.png)
 
 ---
 
